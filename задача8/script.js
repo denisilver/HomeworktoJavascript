@@ -1,2 +1,2 @@
-let name = prompt("Имя пользователя");
+let name = ("Денис");
 alert ("Ваше имя " + name + '!');
