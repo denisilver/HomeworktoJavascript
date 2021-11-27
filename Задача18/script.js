@@ -3,4 +3,3 @@ num ++;
 num ++;
 num --;
 alert(num);
-
